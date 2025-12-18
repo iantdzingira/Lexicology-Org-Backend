@@ -1,0 +1,4 @@
+node_modules
+vocab_app.db
+.vscode
+.DS_Store
